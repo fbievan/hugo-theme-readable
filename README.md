@@ -1,5 +1,7 @@
 # hugo-theme-readable
 
+## Now hosted at the official Freedom to Write Codeberg - https://codeberg.org/Freedom-to-Write/hugo-theme-readable 
+
 Readable is a theme for the static-site generator [Hugo](https://gohugo.io/) using the [readable.css](https://readable-css.freedomtowrite.org/) framework built by [Freedom to Write](https://freedomtowrite.org/).
 
 Shoutout to [Benjamin Hollon](https://benjaminhollon.com/) for his amazing work building this CSS framework and making it so simple to use.
